@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/lilyis-portfolio/static/css/main.b7fa48a7.css",
+    "main.js": "/lilyis-portfolio/static/js/main.f3901193.js",
+    "static/js/787.bc7d429a.chunk.js": "/lilyis-portfolio/static/js/787.bc7d429a.chunk.js",
+    "static/media/lefthanded.otf": "/lilyis-portfolio/static/media/lefthanded.7c4e9ae977fbd8ad1980.otf",
+    "static/media/yosugaraver1_2.ttf": "/lilyis-portfolio/static/media/yosugaraver1_2.0f84aa4697e264642eb3.ttf",
+    "static/media/Lora-SemiBold.ttf": "/lilyis-portfolio/static/media/Lora-SemiBold.43c3583054ead8764132.ttf",
+    "static/media/Angelcia.otf": "/lilyis-portfolio/static/media/Angelcia.8d63d2fa39bbe7b5348c.otf",
+    "static/media/karakaze-R.otf": "/lilyis-portfolio/static/media/karakaze-R.35ee6e4535f48a657253.otf",
+    "static/media/Amsterdam.otf": "/lilyis-portfolio/static/media/Amsterdam.84c3f66a87142e0c4650.otf",
+    "index.html": "/lilyis-portfolio/index.html",
+    "main.b7fa48a7.css.map": "/lilyis-portfolio/static/css/main.b7fa48a7.css.map",
+    "main.f3901193.js.map": "/lilyis-portfolio/static/js/main.f3901193.js.map",
+    "787.bc7d429a.chunk.js.map": "/lilyis-portfolio/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7fa48a7.css",
+    "static/js/main.f3901193.js"
+  ]
+}
